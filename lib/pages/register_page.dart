@@ -19,8 +19,6 @@ class  RegisterPage extends StatefulWidget {
 }
 
 
-
-// ignore: must_be_immutable
 class _RegisterPageState extends State<RegisterPage> {
 
   String? email, password;

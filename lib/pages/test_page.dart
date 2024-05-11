@@ -56,9 +56,9 @@ class _IshiharaTestPageState extends State<IshiharaTestPage> {
           children: [
             Image.asset(
               _ishiharaImages[_currentImageIndex],
-              width: 300,
+           /*   width: 300,
               height: 200,
-              fit: BoxFit.cover,
+              fit: BoxFit.cover,*/
             ),
             const SizedBox(height: 20),
             Row(
@@ -79,7 +79,6 @@ class _IshiharaTestPageState extends State<IshiharaTestPage> {
       ),
     );
   }
-
   void _nextQuestion(bool userAnswer) {
     setState(() {
       if (_currentImageIndex < _ishiharaImages.length - 1) {
