@@ -44,7 +44,6 @@ class MainCubit extends Cubit<MainState> {
       url: 'analyze_colors',
       data: formData,
     ).then((value) {
-      print(value.data);
       emit(SuccessPostPhotoForDetectColor(
         data: value.data,
       ));
