@@ -35,7 +35,7 @@ class MainCubit extends Cubit<MainState> {
     emit(LoginPostPhotoForDetectColor());
 
     FormData formData = FormData.fromMap({
-        'num_dominant_colors' : 2,
+        'num_dominant_colors' : 3,
         'num_random_colors' : 3,
         'photo': await MultipartFile.fromFile(photo!.path),
 
