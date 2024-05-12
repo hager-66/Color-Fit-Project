@@ -1,0 +1,147 @@
+1-color:White
+  link:https://us.shein.com/SHEIN-VCAY-Drawstring-Waist-Straight-Leg-Pants-p-9401272.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2022/02/08/1644306959aa9d2596c2b48e944aa76894a25e4c3f_wk_shein.webp
+2-color:white
+  link : https://us.shein.com/SHEIN-MOD-High-Waist-Button-Detail-Patch-Pocket-Corduroy-White-Straight-Leg-Pants-p-24900988.html?src_identifier=fc%3DWomen%20Clothing%60sc%3DWomen%20Clothing%60tc%3DBottoms%60oc%3DPants%60ps%3Dtab03navbar03menu04dir02%60jc%3Dreal_1740&src_module=topcat&src_tab_page_id=page_select_class1715294329424&mallCode=1&pageListType=1&imgRatio=3-4
+    url:https://img.ltwebstatic.com/images3_pi/2023/10/19/36/1697692605260cb892c63100fcc4ab49fa3a2661b4_wk_shein.webp
+3-color:black
+  link :https://us.shein.com/Solid-Color-High-Waist-Wide-Leg-Pants-p-26853647.html?&imgRatio=3-4&main_attr=27_513&mallCode=1
+   url :https://img.ltwebstatic.com/images3_pi/2024/04/05/cc/1712289638e3a2bcaddd5afeef2d3609c4f68ae140_wk_shein.webp
+4-color:Apricot
+  link :https://us.shein.com/Women-s-Solid-Color-Slim-Fit-Tapered-Trousers-p-30099878.html?&imgRatio=3-4&main_attr=27_513&mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2024/02/19/02/1708307709d49efcb449600d9900d9ef3c922505bf_wk_shein.webp
+5-color:dark grey
+  link :https://us.shein.com/Women-Solid-Color-Casual-Loose-Straight-Pants-p-32750389.html?&imgRatio=3-4&main_attr=27_2493&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2024/04/28/c1/1714233702fc144beda7ca97f74ec8f338cefeb8f5_wk_shein.webp
+6-color:dark green
+  link :https://us.shein.com/Women-Solid-Color-Casual-Daily-Wear-Spring-And-Summer-Long-Pants-p-33620945.html?&imgRatio=3-4&main_attr=27_78&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2024/04/09/ee/1712631308116f8a24388b4c87a6c6b2c25b157ac7_wk_shein.webp
+7-color:White&black
+  link :https://us.shein.com/SHEIN-LUNE-Graphic-Print-Belted-Wide-Leg-Pants-p-10274673.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2022/04/13/1649815695204db07dafd2f389bb4d1a32dbc43ad6_wk_shein.webp
+8-color: Royal Blue
+  link : https://us.shein.com/SHEIN-MOD-Solid-Straight-Leg-Blue-Patch-Pocket-Pants-p-25643095.html?mallCode=1&imgRatio=3-4
+    url:https://img.ltwebstatic.com/images3_pi/2023/10/31/94/1698720104b42f5d5cdab51097b330c6f2d70f9c7d_wk_shein.webp
+9-color:black
+  link :https://us.shein.com/SHEIN-Essnce-Solid-Flare-Leg-Pants-p-24483626.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/24/44/1698138331123386aa09e999f69240552d464387d8_wk_shein.webp
+10-color:Grey
+  link :https://us.shein.com/SHEIN-Essnce-Women-s-Drawstring-Flare-Pants-Long-p-26207407.html?&imgRatio=3-4&main_attr=27_112&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/09/d5/16995280299624a1134c1747d55b36938c7cf0ce82_wk_shein.webp
+11-color:dark blue
+  link :https://us.shein.com/SHEIN-Essnce-Women-s-Elastic-Waist-Ribbed-Flare-Leg-Pants-p-28090508.html?&imgRatio=3-4&main_attr=27_112&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/09/d5/16995280299624a1134c1747d55b36938c7cf0ce82_wk_shein.webp
+12-color:blue&white
+  link :https://us.shein.com/SHEIN-VCAY-Floral-Print-Shirred-High-Waist-Wide-Leg-Pants-p-31250047.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/03/11/d6/1710123271465c0f449d2e49542440e484f57218b5_wk_shein.webp
+13-color:Army Green
+  link :https://us.shein.com/SHEIN-LUNE-Tie-Waist-Wide-Leg-Pants-p-16367453.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/05/19/1684483677c973c2ad724b1964dbb8182da0b85cf8_wk_shein.webp
+14-color:Burnt Orange
+  link :https://us.shein.com/SHEIN-LUNE-Tie-Waist-Wide-Leg-Pants-p-19903848.html?&imgRatio=3-4&main_attr=27_81&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/07/20/16898228078eca020b13885d51c963394943a0d282_wk_shein.webp
+15-color:maroon
+  link :https://us.shein.com/SHEIN-EZwear-Ladies-Solid-Color-Pleated-Wide-Leg-Pants-p-29943836.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/02/05/54/170712576205500e0f066fbc3d7dd4726fabb8afa2_wk_shein.webp
+16-color: Apricot
+  link :https://us.shein.com/SHEIN-EZwear-High-Waist-Plicated-Detail-Wide-Leg-Pants-p-22401435.html?&imgRatio=3-4&main_attr=27_421&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/09/19/59/16951104222a23f52334a37bbe8672c1c42c49487b_wk_shein.webp
+17-color:Cadet Blue
+  link :https://us.shein.com/SHEIN-LUNE-Paperbag-Waist-Belted-Wide-Leg-Pants-p-15115976.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/04/21/16820548869a7b18f4f6cc203d05cf7b13ab41cfc0_wk_shein.webp
+18-color:dark grey
+  link :https://us.shein.com/High-Waist-Straight-Leg-Pants-p-15545742.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/05/19/1684462394b84df7ed18c6f4472f2c9362e574937c_wk_shein.webp
+19-color:broon
+  link :https://us.shein.com/SHEIN-Priv-Women-Pants-p-9189762.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2022/02/18/164515183465caff6bcdad6c1e99f7541541c932a6_wk_shein.webp
+20-color:dark grren
+  link :https://us.shein.com/SHEIN-Priv-Women-Pants-p-11805306.html?&imgRatio=3-4&main_attr=27_140&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2022/10/24/1666588579b3d95b6b034b9eed9711f58fb35826ab_wk_shein.webp
+21-color: Mint Green
+  link :https://us.shein.com/SHEIN-EZwear-Women-Pants-p-10937712.html?&imgRatio=3-4&main_attr=27_140&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2022/06/30/165655276156e1cd140c298cc3ca9794fbfeb3cc96_wk_shein.webp
+22-color:Mint color
+   link :https://us.shein.com/SHEIN-EZwear-Solid-Wide-Leg-Pants-p-9890553.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2022/02/28/1646039806fee66c41689377ca3b044e89ec2b13ee_wk_shein.webp
+23-color:light grey
+   link :https://us.shein.com/SHEIN-EZwear-Women-s-Wide-leg-Pants-p-25641899.html?&imgRatio=3-4&main_attr=27_1000118&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/31/53/16987167101752a2e3542f8f2f699509d50540c668_wk_shein.webp
+24-color: Light Wash
+   link :https://us.shein.com/Tween-Girls-Casual-Wide-Leg-Wash-Distressed-Denim-Jeans-p-28168242.html?src_identifier=st%3D2%60sc%3DJeans%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_search1715420410951&mallCode=1&pageListType=4&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/12/25/66/1703497661465e117144a3a92d39d408a083d24a7b.webp
+25-color:Blue
+   link :https://us.shein.com/Tween-Girls-Jeans-New-Arrival-Casual-Fashion-Multi-Pocket-Cargo-Washed-Denim-Straight-Pants-p-30104886.html?mallCode=1&imgRatio=3-4   url:https://img.ltwebstatic.com/images3_pi/2024/02/19/28/1708307865cc7f7239742dca5ea577ccf2a82ea332.webp
+   url:https://img.ltwebstatic.com/images3_pi/2024/02/19/28/1708307865cc7f7239742dca5ea577ccf2a82ea332.webp
+26-color: Medium Wash
+   link :https://us.shein.com/SHEIN-Tween-Girls-Cute-Starry-Pattern-Washed-Straight-Leg-Jeans-p-29757308.html?src_identifier=st%3D2%60sc%3Djeans%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715420743838&pageListType=4&imgRatio=3-4&main_attr=27_364&mallCode=1
+    url:https://img.ltwebstatic.com/images3_pi/2024/01/30/47/170660948310470ee51cb229faa8ea76215ddebd79.webp
+27-color:light Blue
+   link : https://us.shein.com/SHEIN-Tween-Girl-s-Y2K-Trendy-Spring-And-Summer-Boho-Star-Patched-Faded-Frayed-Denim-Jeans-Shorts-Girls-Summer-Clothes-Outfits-p-30681005.html?mallCode=1&imgRatio=3-4
+     url:https://img.ltwebstatic.com/images3_pi/2024/02/29/12/1709173597d2933a6c22886e0bf2a3e1bb0ec5f81a.webp
+28-color:black
+   link :https://us.shein.com/SHEIN-Tween-Girls-Washed-Casual-Fashionable-Heart-Embroidered-Denim-Shorts-p-29115650.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/01/15/bc/1705289146b3d063fe3abfdadea380649046f0f5c2.webp
+29-color:black
+   link :https://us.shein.com/SHEIN-Tween-Girl-Black-Wide-Leg-Cargo-Jeans-p-25556413.html?mallCode=1&imgRatio=3-4 
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/30/8a/1698629883dbe10e369f1bb5a0456624cacda86a6a.webp
+30-color:blue
+   link : https://us.shein.com/SHEIN-Tween-Girl-Love-Heart-Printed-Denim-Pants-p-26537248.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/03/04/fe/17095232144bc2a1f9db50778c34d3fbfe7c9c9f32.webp
+31-color: Blue
+   link:https://us.shein.com/Tween-Girl-Star-Print-Flare-Leg-Jeans-p-25054496.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/21/dd/16978587110d1726223d93bf4dc2a1fa6a4b25e6a7.webp
+32-color:Dark Wash
+   link:https://us.shein.com/Tween-Girl-Ripped-Frayed-Flare-Leg-Jeans-p-24902896.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/19/0c/169768027397bc2bdf0cb1bc41344d4c328d83b474.webp
+33-color:white
+   link:https://us.shein.com/Tween-Girl-Ripped-Raw-Hem-Flare-Leg-Jeans-p-20351193.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/08/04/68/1691139970b74e402f049f477e803c67925e5d9950.webp
+34-color:black
+   link:https://us.shein.com/SHEIN-Tween-Girls-Y2K-Spring-And-Summer-Streetwear-Ripped-Straight-Leg-Jeans-Girls-Summer-Clothes-p-30784466.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/03/05/d1/1709609492f054eeaa84c1f1c5372e57e92c8d0450.webp
+35-color:dark wash
+   link:https://us.shein.com/Tween-Girl-Printed-Distressed-Flare-Jeans-With-Raw-Hem-p-26757364.html?&imgRatio=3-4&main_attr=27_513&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/11/22/ea/17006367012390696aba31cb380baef7364fa2329b.webp
+36-color:kaki
+   link:https://us.shein.com/Tween-Girls-Y2k-Bow-Knot-High-Elasticity-Fringed-Flared-Jeans-p-28743061.html?&imgRatio=3-4&main_attr=27_513&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2024/01/18/53/1705543510f1c5c918170b24e59bcb56f5eeb304f2.webp
+37-color:wash
+   link:https://us.shein.com/Tween-Girls-Jeans-New-Arrival-Casual-Fashion-Multi-Pocket-Cargo-Washed-Denim-Straight-Pants-p-30104886.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/02/19/28/1708307865cc7f7239742dca5ea577ccf2a82ea332.webp
+38-color:wash
+   link:https://us.shein.com/Tween-Girls-New-Casual-And-Fashionable-Split-Hem-With-Washed-And-Flare-Jeans-Style-p-28232970.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/12/27/79/1703647879bb53f74c5f2159ffea3c719a6bc3b504.webp
+39-color:black
+   link:https://us.shein.com/Tween-Girls-Casual-Street-Fashion-Light-Wash-Ripped-Baggy-Cropped-Straight-Jeans-p-33453326.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/05/09/09/171524546531295a0366d76b8b748ab65543b71803.webp
+40-color:black
+   link:https://us.shein.com/Tween-Girl-Ripped-Flare-Leg-Jeans-p-23426529.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/07/ef/1696655881f0e77a36dd16edc15e14862a85b7fbb8.webp
+41-color:wash
+   link:https://us.shein.com/Girls-Printed-Spandex-Flare-Jeans-For-Teenager-p-31647091.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/03/18/51/17107273679f3b56deb048c4d9c87d18b3600e00fa.webp
+42-color:white
+   link:https://us.shein.com/Tween-Girl-Elastic-Waist-Tapered-Jeans-p-7140842.html?&imgRatio=3-4&main_attr=27_364&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2021/11/22/1637586168c9c245c8f09e2d9deac1f2888cb3e573.webp
+43-color:light grey
+    link:https://us.shein.com/Girls-big-Kid-Flap-Pocket-Denim-Jeans-p-26651039.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/11/20/37/170044878742376a25bed2c2684ad3435549735005.webp
+44-color:Brown
+   link:https://us.shein.com/Tween-Girl-Flap-Pocket-Side-Cargo-Jeans-p-12444140.html?&imgRatio=3-4&main_attr=27_2486&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/01/09/16732318424d054da7be8efeea80d5fe729c9b6e37.webp
+45-color:wash
+   link:https://us.shein.com/Tween-Girl-Fashionable-Cargo-Denim-Pants-With-Decorative-Pockets-p-25039688.html?&imgRatio=3-4&main_attr=27_2486&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/11/11/e3/1699675285ac8417ee9de0b864589dd9d336d53154.webp
+46-color:light wash
+   link:https://us.shein.com/Tween-Girl-Flare-Jeans-p-29733444.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2024/01/30/6f/1706594531be3aeaae896341ba5883b5fa2a163308.webp
+47-color:wash
+   link:https://us.shein.com/Tween-Girl-Single-Button-Flare-Leg-Jeans-p-11683521.html?&imgRatio=3-4&main_attr=27_1000125&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2022/10/12/1665537822c16c78ffffea9e07efb6f61899a45a3a.webp
+48-color:medium wash
+   link:https://us.shein.com/Tween-Girl-Button-Front-Wide-Leg-Jeans-p-13947936.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/03/18/167912001500d5f9ba31d905b544ca4a921c75cedd.webp
+49-color:dark wash
+   link:https://us.shein.com/Girls-Button-Front-Wide-Leg-Jeans-p-14422194.html?&imgRatio=3-4&main_attr=27_1000124&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/04/03/16804939059b75ebd05b27e19aabca21d5ae068a5d.webp

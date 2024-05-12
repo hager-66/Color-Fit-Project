@@ -21,3 +21,5 @@ final class SuccessPostPhotoForDetectColor extends MainState {
 }
 
 final class ErrorPostPhotoForDetectColor extends MainState {}
+
+final class ReadJson extends MainState {}

@@ -1,0 +1,61 @@
+1-color:yellow 
+  link:https://us.shein.com/Manfinity-RSRT-Men-Solid-Drawstring-Waist-Pants-p-21820840.html?src_identifier=st%3D4%60sc%3DMen%20Linen%20Pants%60sr%3D0%60ps%3D13&src_module=search&src_tab_page_id=page_goods_detail1715460044858&mallCode=1&pageListType=4&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/08/22/4f/169268235768628fd905f1d949bb5859e96b235c44.webp
+2-color:grey
+  link :https://us.shein.com/Men-Drawstring-Waist-Sweatpants-p-13537644.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/10/20/df/1697792670b4ccdd8d651c96350f5239cf6d546cf6.webp
+3-color:brown
+  link :https://us.shein.com/Men-Drawstring-Waist-Slant-Pocket-Sweatpants-p-12426845.html?&imgRatio=3-4&main_attr=27_2486&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2022/12/08/16704683506e2ec8d7768d398a62a57393cd77f851.webp
+4-color:Navy blue
+  link :https://us.shein.com/Men-Solid-Drawstring-Waist-Sweatpants-p-15123607.html?&imgRatio=3-4&main_attr=27_2486&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/04/20/168197227150d62f93752ae71138017133c8e41860.webp
+5-color:dark grey
+  link:https://us.shein.com/Men-Solid-Drawstring-Waist-Sweatpants-p-15123587.html?&imgRatio=3-4&main_attr=27_1000121&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/04/20/1681972295363f840c84524044ece3bc279b505cdb.webp
+6-color:khaki
+  link :https://us.shein.com/Men-s-Solid-Color-Drawstring-Waist-Sweatpants-p-27418230.html?&imgRatio=3-4&main_attr=27_2486&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/10/6d/17021884307a92c0c28d3e532d373a55c71f365346.webp
+7-color:mint green
+  link :https://us.shein.com/Men-Solid-Drawstring-Waist-Sweatpants-p-18641982.html?&imgRatio=3-4&main_attr=27_544&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/06/29/1688032071bae31018841402a749d7b7db7209545d.webp
+8-color:wash blue
+  link :https://us.shein.com/Manfinity-Hypemode-Men-Cotton-Slant-Pocket-Loose-Fit-Loose-Jeans-Baggy-Jeans-p-14715546.html?src_identifier=st%3D2%60sc%3Djens%20men%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715461983691&mallCode=1&pageListType=4&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/04/75/16990885733b7772ff647135fcd86c7247f5997dc7.webp
+9-color:blue
+  link :https://us.shein.com/Manfinity-Hypemode-Men-s-Loose-Fit-Slant-Pocket-Straight-Leg-Jeans-Baggy-Jeans-p-17885669.html?src_identifier=st%3D2%60sc%3Djens%20men%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715461983691&pageListType=4&imgRatio=3-4&main_attr=27_1000125&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/06/15/168679320729737bef2c24ac8f2b4a91ba866d6831.webp
+10-color:dark wash
+  link :https://us.shein.com/Manfinity-Hypemode-Men-s-Loose-Slant-Pocket-Wide-Leg-Jeans-p-17885806.html?src_identifier=st%3D2%60sc%3Djens%20men%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715461983691&pageListType=4&imgRatio=3-4&main_attr=27_1000125&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/06/26/16877448246e6caca5da7fbf16f8ac5b9f8e030dd0.webp
+11-color:Khaki
+  link :https://us.shein.com/Manfinity-Hypemode-Men-Slant-Pocket-Loose-Fit-Jeans-p-33348331.html?src_identifier=st%3D2%60sc%3Djens%20men%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715461983691&pageListType=4&imgRatio=3-4&main_attr=27_1000124&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2024/04/15/fb/171317980345f40f95ee827f56c235b0f507033c77.webp
+12-color:brown
+  link :https://us.shein.com/Manfinity-Loose-Fit-Men-s-Jeans-With-Flap-Pockets-On-The-Side-p-22945440.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/09/11/34/169439604158a1192251e106d37f753d5a794b0875.webp
+13-color:dark wash
+  link :https://us.shein.com/Manfinity-Loose-Men-s-Casual-Cargo-Jeans-With-Pockets-p-26294841.html?&imgRatio=3-4&main_attr=27_140&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/10/73/169960671119232b8fed1800c9561052b35e113f30.webp
+14-color:wash
+  link :https://us.shein.com/Men-s-Elastic-Waist-Wide-Leg-Jeans-p-31290177.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/03/11/82/1710122221c4425dfb1fc93ff15a51dcd7d8408581.webp
+15-color:grey
+  link : https://us.shein.com/Men-Drawstring-Waist-Straight-Leg-Jeans-p-22798298.html?&imgRatio=3-4&main_attr=27_1000124&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/10/03/57/169631028635832d22938e7b3a9575d2ddbc3f9813.webp
+16-color: black
+  link : https://us.shein.com/Men-s-Elastic-Waist-Wide-Leg-Jeans-p-31117529.html?&imgRatio=3-4&main_attr=27_1000124&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2024/03/07/7f/17097747971314d9dd4cd96847f626899f959e42d9.webp
+17-color: grey
+  link : https://us.shein.com/Manfinity-EMRG-Loose-Fit-Men-s-Solid-Color-Cargo-Jeans-p-26542894.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/16/1f/17001111563d8cd354cab87382636f43e5126b6cec.webp
+18-color: khaki
+  link : https://us.shein.com/Manfinity-Hypemode-Loose-Fit-Men-s-Cargo-Jeans-With-Flap-Pockets-On-Both-Sides-p-23257743.html?&imgRatio=3-4&main_attr=27_336&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/09/18/8f/16950031070d222538027dde01f5694559d60eff29.webp
+19-color: khaki
+  link : https://us.shein.com/Manfinity-EMRG-Men-s-Solid-Color-Cargo-Jeans-p-28067724.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/22/a4/1703228843937ecf1407732607bd4d5bb593d35087.webp
+20-color:mint green 
+  link :https://us.shein.com/Manfinity-Hypemode-Men-s-Straight-Leg-Jeans-p-26868730.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/27/39/17010479911089f5e5c9b78fd3e1f10bf64930a32a.webp
+ 

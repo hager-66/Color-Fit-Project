@@ -1,0 +1,90 @@
+1-color: Green
+  link :https://us.shein.com/SHEIN-WYWH-Twist-Front-Cutout-Eyelet-Embroidery-Top-p-11718031.html?src_identifier=on%3DIMAGE_COMPONENT%60cn%3Dshopbycate%60hz%3DhotZone_6%60ps%3D2_6%60jc%3DitemPicking_008255621&src_module=All&src_tab_page_id=page_home1715293702061&mallCode=1&pageListType=2&imgRatio=3-4
+  url :https://img.ltwebstatic.com/images3_pi/2023/04/27/1682580836a54f8007074bc9915a32b78ef89de9cf_wk_shein.webp
+2-color:Brown
+  link :https://us.shein.com/SHEIN-MOD-Solid-Ruched-Wide-Straps-Gathered-Shoulder-Straps-Sharp-Hem-Spring-Top-p-20598023.html?src_identifier=on%3DIMAGE_COMPONENT%60cn%3Dshopbycate%60hz%3DhotZone_6%60ps%3D2_6%60jc%3DitemPicking_008255621&src_module=All&src_tab_page_id=page_home1715293702061&mallCode=1&pageListType=2&imgRatio=3-4
+  url :https://img.ltwebstatic.com/images3_pi/2023/08/01/1690868092f7d01fef1587fece65b17f56d8d9bc15_wk_shein.webp
+3-color:black
+  link :https://us.shein.com/SHEIN-EZwear-Summer-Solid-Ruched-Halter-Top-p-16954776.html?src_identifier=on%3DIMAGE_COMPONENT%60cn%3Dshopbycate%60hz%3DhotZone_6%60ps%3D2_6%60jc%3DitemPicking_008255621&src_module=All&src_tab_page_id=page_home1715293702061&mallCode=1&pageListType=2&imgRatio=3-4
+  url :https://img.ltwebstatic.com/images3_pi/2023/05/30/168541598954c7f21c7911ba6bd99fad6896599d9d_wk_shein.webp
+4-color:navy blue
+  link :https://us.shein.com/SHEIN-ICON-Asymmetrical-Hem-Women-S-Strapless-Top-p-28232969.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2023/12/27/28/1703649298ba9cafd3c35c0796730ad29e1b27ced7_wk_shein.webp
+5-color:Mocha Brown
+  link :https://us.shein.com/ROMWE-Solid-Ruched-Ribbed-Tee-p-12436703.html?&imgRatio=3-4&main_attr=27_112&mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2023/04/24/1682321924666d251aceef21b73819b682cdc8d005_wk_shein.webp
+6-color:Red
+  link :https://us.shein.com/SHEIN-EZwear-Solid-Color-Knitted-Ruffled-Slim-Fit-Tank-Top-p-29689817.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2024/01/29/87/17064971821cbc82e458a11e9f3bceed0443db6368_wk_shein.webp
+7-color:black
+  link :https://us.shein.com/SHEIN-ICON-Asymmetrical-Neck-Ruched-Black-Tee-p-22583223.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2023/09/05/d2/1693880537cac4f7aee0e249c839a3ed9dfdcd6e40_wk_shein.webp
+8-color:Apricot
+  link :https://us.shein.com/SHEIN-EZwear-Foldover-Off-Shoulder-Bell-Sleeve-Crop-Teer-Suitable-For-Spring-And-Autumn-p-22066198.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2023/08/25/8c/1692963812e6661676af9d2d1a8fe9256ce4a93b6a_wk_shein.webp
+9-color:Navy Blue
+  link :https://us.shein.com/SHEIN-MOD-Square-Neck-Hanky-Hem-Blue-Cropped-Tee-p-23386681.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2023/09/20/9a/1695192290ba01b6a2c5ceeab5804220c98b727df7_wk_shein.webp
+10-color:Grey
+  link :https://us.shein.com/SHEIN-ICON-Halter-Neck-Lettuce-Trim-Flounce-Sleeve-Spring-Crop-Top-p-11941307.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2022/11/14/16684020735801334f1bbed9a533a8f03988262f96_wk_shein.webp
+11-color:Brown
+  link :https://us.shein.com/SHEIN-MOD-Knot-Front-Bell-Sleeve-T-Shirt-p-27701026.html?mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/15/c2/1702607689046f1c7aa22f03422b45931f9d595daf_wk_shein.webp
+12-color:Army Green
+  link :https://us.shein.com/SHEIN-MOD-Lettuce-Hem-Tie-Front-Green-Vintage-T-Shirt-p-27379547.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/12/08/22/1702024063ec58fc3deed8c904bd6be9a953d05dec_wk_shein.webp
+13-color:red
+  link :https://us.shein.com/SHEIN-MOD-One-Shoulder-Ruched-Mesh-Crop-Top-p-25553279.html?&imgRatio=3-4&main_attr=27_81&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/30/d9/1698633752749d975c214ff5ff769c12f7da989767_wk_shein.webp
+14-color:white
+  link :https://us.shein.com/SHEIN-ICON-Twist-Front-Tie-Front-Crisscross-Short-Sleeve-Crop-WomenTop-White-p-10779990.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2022/06/08/1654691748bcc9b6a19547d331295c9a4d09ece150_wk_shein.webp
+15-color:White
+  link :https://us.shein.com/SHEIN-MOD-Women-s-Off-Shoulder-Flare-Sleeve-Ruched-T-shirt-p-26814468.html?mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/11/24/91/17007928346d79f13a09eb0c9fe9741f6b7fe3a19c_wk_shein.webp
+16-color:Mauve Purple
+  link :https://us.shein.com/SHEIN-MOD-Women-s-Solid-Color-Ruffled-Hem-Top-p-29536904.html?&main_attr=27_544&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2024/01/24/b0/1706083124c434653121c92f0e596b788780289e19_wk_shein.webp
+17-color:Mauve Purple
+  link :https://us.shein.com/SHEIN-ICON-Women-s-Off-Shoulder-Drawstring-Asymmetrical-Hem-Mesh-Top-p-25548901.html?mallCode=1&imgRatio=3-4
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/30/a4/16986350364d9fba787d0bc74dad191c64120c0f99_wk_shein.webp
+18-color:baby blue
+  link :https://us.shein.com/ROMWE-Fairycore-Women-s-Texture-Fabric-Blouse-With-Halter-Neck-Twist-Front-Detail-Split-Hem-And-Bell-Sleeves-p-28965823.html?mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2024/01/22/5a/1705893357ecafb665b91ce2d70eea7b2898eaf152_wk_shein.webp
+19-color:hot pink
+  link :https://us.shein.com/SHEIN-EZwear-Cute-Ladies-Vacation-Drawstring-Bandeau-Top-p-31669142.html?&main_attr=27_1000112&mallCode=1
+    url:https://img.ltwebstatic.com/images3_pi/2024/03/18/bb/17107504135a48185e76564f4c07b41cda67e9562b_wk_shein.webp
+20-color:Apricot
+  link :https://us.shein.com/SHEIN-MOD-Women-s-Strapless-Drawstring-Crop-Apricot-Off-Shoulder-Top-p-28165615.html?&main_attr=27_1000131&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2024/01/18/a2/17055504862410b43323927782f2e830ab2fc055b0_wk_shein.webp
+21-color:pink
+  link :https://us.shein.com/SHEIN-EZwear-Balletcore-Lettuce-Trim-Knot-Front-Crop-Top-p-10604904.html?&main_attr=27_739&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2022/06/01/1654047565e0731d659e46f2807bdb027e77818009_wk_shein.webp
+22-color:orange
+  link :https://us.shein.com/SHEIN-EZwear-Woven-Women-s-Short-Sleeve-Shirt-With-Twisted-Hemline-p-29477705.html?&main_attr=27_364&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2024/01/03/9a/1704249522898db604578dd352491458b5b7a48bae_wk_shein.webp
+23-color:baby pink
+  link :https://us.shein.com/SHEIN-MOD-Solid-Button-Front-Halter-Top-p-21819247.html?&main_attr=27_739&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/08/22/e5/1692682424ed5d92cf646bcfa1534be45b946e322f_wk_shein.webp
+24-color:dark Red
+  link :https://us.shein.com/SHEIN-Qutie-Button-Detail-Halter-Neck-Waist-Gathered-Tank-Top-p-31830849.html?&main_attr=27_1000123&mallCode=1 
+  url:https://img.ltwebstatic.com/images3_pi/2024/03/21/58/171098460291de94e853c47a78457d4d1ab7bdbd71_wk_shein.webp
+25-color: Khaki
+  link :https://us.shein.com/SHEIN-MOD-Retro-Vintage-Clothes-Crossed-Frenulum-Drawstring-Side-Crop-Tank-Top-p-24090748.html?&main_attr=27_513&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/10/19/c8/16977100160874e12f12a782315823e1145c3522fc_wk_shein.webp
+26-color:Dark blue
+  link :https://us.shein.com/SHEIN-MOD-Women-s-Front-Tie-Waist-Tank-Top-For-Summer-p-27693121.html?mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/12/15/b1/170260769037962a7ffd959877d2c011cde56cbf8c_wk_shein.webp
+27-color:Dark blue
+  link :https://us.shein.com/SHEIN-EZwear-Striped-Print-Button-Front-Tube-Top-p-24053871.html?mallCode=1
+  url :https://img.ltwebstatic.com/images3_pi/2023/10/06/e3/1696571777b6cfd02c027e6a8395e213327321885b_wk_shein.webp 
+28-color:teal blue
+  link :https://us.shein.com/SHEIN-MOD-Women-s-Solid-Color-Button-Up-Tube-Top-p-26598064.html?mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/16/e1/17001243200764fc249da56c19f6653ea446ef805b_wk_shein.webp
+29-color:white blue
+  link :https://us.shein.com/SHEIN-EZwear-Women-s-Irregular-Hem-Lapel-Shirt-p-27233221.html?mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2023/12/06/57/17018315291243d0a16168ddc9e16bffb83b9f1700_wk_shein.webp
+30-color:white  
+  link :https://us.shein.com/SHEIN-MOD-Women-s-Sleeveless-Button-Up-Fashion-Shirt-With-Turn-Down-Collar-Suitable-For-Vacation-And-Travel-Outfits-p-31672969.html?&main_attr=27_118&mallCode=1
+   url:https://img.ltwebstatic.com/images3_pi/2024/03/18/98/17107504628bb7d7f44fe91f0d12bc9c643e28f526_wk_shein.webp
