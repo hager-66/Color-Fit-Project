@@ -22,6 +22,9 @@ class ResultPageOutfits extends StatelessWidget {
         childAspectRatio: 0.5,
           children: List.generate(10, (index) {
             int indexRandom = random.nextInt(20);
+            if(indexRandom == indexRandom - 1){
+              indexRandom = random.nextInt(20);
+            }
             return Padding(
               padding: const EdgeInsets.all(8.0),
               child: Column(
