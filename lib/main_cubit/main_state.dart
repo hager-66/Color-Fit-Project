@@ -23,3 +23,7 @@ final class SuccessPostPhotoForDetectColor extends MainState {
 final class ErrorPostPhotoForDetectColor extends MainState {}
 
 final class ReadJson extends MainState {}
+
+final class ChangePasswordVisibilityState extends MainState {}
+
+final class ChangePasswordVisibilityRegisterState extends MainState {}

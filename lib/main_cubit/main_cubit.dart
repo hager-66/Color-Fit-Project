@@ -70,4 +70,32 @@ class MainCubit extends Cubit<MainState> {
     dataOutfits = data ;
     emit(ReadJson());
   }
+
+
+  IconData suffix = Icons.visibility_outlined;
+
+  bool isPasswordShown = true;
+
+
+  void changePasswordVisibility() {
+    debugPrint('changePasswordVisibility');
+    isPasswordShown = !isPasswordShown;
+    suffix =
+    isPasswordShown ? Icons.visibility_outlined : Icons.visibility_off_outlined;
+    emit(ChangePasswordVisibilityState());
+  }
+
+
+  IconData suffixRegister = Icons.visibility_outlined;
+
+  bool isPasswordShownRegister = true;
+
+
+  void changePasswordVisibilityRegister() {
+    debugPrint('changePasswordVisibility');
+    isPasswordShownRegister = !isPasswordShownRegister;
+    suffixRegister =
+    isPasswordShownRegister ? Icons.visibility_outlined : Icons.visibility_off_outlined;
+    emit(ChangePasswordVisibilityRegisterState());
+  }
 }

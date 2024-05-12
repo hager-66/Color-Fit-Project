@@ -98,7 +98,7 @@ class ResultPhotoDetect extends StatelessWidget {
             ),
 
             const Text(
-              'Result of Random Colors',
+              'Result of Match Colors',
               style: TextStyle(
                 fontSize: 15,
                 color: kPrimaryColor,

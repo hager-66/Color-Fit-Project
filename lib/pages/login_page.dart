@@ -5,8 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:color_fit1/pages/register_page.dart';
 
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import '../helper/show_snack_bar.dart';
+import '../main_cubit/main_cubit.dart';
 import 'choose_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -28,7 +30,10 @@ class _LoginPageState extends State<LoginPage> {
 
   @override
   Widget build(BuildContext context) {
-    return  ModalProgressHUD(
+    return  BlocConsumer<MainCubit, MainState>(
+  listener: (context, state) {},
+  builder: (context, state) {
+    return ModalProgressHUD(
       inAsyncCall: isLoading,
       child:Scaffold(
         backgroundColor: Colors.white,
@@ -76,7 +81,17 @@ class _LoginPageState extends State<LoginPage> {
                   height: 10,
                 ),
                 CustomFormTextField(
-                  obscureText: true,
+                  suffixIcon: IconButton(
+                    onPressed: () {
+                      MainCubit.get(context)
+                          .changePasswordVisibility();
+                    },
+                    icon: Icon(
+                      MainCubit.get(context).suffix,
+                    ),
+                  ),
+                  obscureText:
+                  MainCubit.get(context).isPasswordShown,
                   onChanged: (data) {
                     password = data;
                   },
@@ -95,9 +110,10 @@ class _LoginPageState extends State<LoginPage> {
                         Navigator.pushNamed(context,ChoosePage.id, arguments: email);
                       }
                       on FirebaseAuthException catch (ex) {
-                        if (ex.code == 'user-not-found') {
-                          showSnackBar(context, 'user not found');
-                        } else if (ex.code == 'wrong-password') {
+                        print('ex.code : ${ex.code}');
+                        if (ex.code == 'invalid-credential') {
+                          showSnackBar(context, 'Incorrect email or password');
+                        } else if (ex.code == 'invalid-credential') {
                           showSnackBar(context, 'wrong password');
                         }
                       } catch (ex) {
@@ -142,6 +158,8 @@ class _LoginPageState extends State<LoginPage> {
         ),
       ),
     );
+  },
+);
   }
   Future<void> loginUser() async {
     UserCredential user = await FirebaseAuth.instance
