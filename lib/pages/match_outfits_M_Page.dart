@@ -53,7 +53,7 @@ class match_outfitsmPage extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: (context) =>
-                                const ResultPageOutfits(
+                                ResultPageOutfits(
                                   outfits: 't-shirts',
                                 )));
                       });
@@ -75,7 +75,7 @@ class match_outfitsmPage extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: (context) =>
-                                const ResultPageOutfits(
+                                ResultPageOutfits(
                                   outfits: 'pants',
                                 )));
                       });
@@ -103,7 +103,7 @@ class match_outfitsmPage extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: (context) =>
-                                const ResultPageOutfits(
+                                ResultPageOutfits(
                                   outfits: 'sweatshirts',
                                 )));
                       });
@@ -125,7 +125,7 @@ class match_outfitsmPage extends StatelessWidget {
                             context,
                             MaterialPageRoute(
                                 builder: (context) =>
-                                const ResultPageOutfits(
+                                ResultPageOutfits(
                                   outfits: 'jackets',
                                 )));
                       });

@@ -2,14 +2,15 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:webview_flutter/webview_flutter.dart';
 
 import '../main_cubit/main_cubit.dart';
 
 class ResultPageOutfits extends StatelessWidget {
-  const ResultPageOutfits({super.key, required this.outfits});
+  ResultPageOutfits({super.key, required this.outfits});
 
   final String outfits;
+  Set<int> usedIndices = Set();
+
   @override
   Widget build(BuildContext context) {
     final random = Random();
@@ -20,11 +21,19 @@ class ResultPageOutfits extends StatelessWidget {
       body: GridView.count(
           crossAxisCount: 2,
         childAspectRatio: 0.5,
-          children: List.generate(10, (index) {
-            int indexRandom = random.nextInt(20);
-            if(indexRandom == indexRandom - 1){
+          children: List.generate(6, (index) {
+            int indexRandom;
+            do {
               indexRandom = random.nextInt(20);
-            }
+            } while (usedIndices.contains(indexRandom));
+
+            usedIndices.add(indexRandom);
+            print(indexRandom);
+            print(MainCubit.get(context).dataOutfits['products']
+            [indexRandom]['url']);
+            print(MainCubit.get(context).dataOutfits['products']
+            [indexRandom]['link']);
+
             return Padding(
               padding: const EdgeInsets.all(8.0),
               child: Column(
