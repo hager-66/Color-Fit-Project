@@ -5,8 +5,10 @@ import 'package:color_fit1/widgets/custom_button.dart';
 import 'package:color_fit1/widgets/custom_text_field.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import '../helper/show_snack_bar.dart';
+import '../main_cubit/main_cubit.dart';
 
 
 
@@ -19,8 +21,6 @@ class  RegisterPage extends StatefulWidget {
 }
 
 
-
-// ignore: must_be_immutable
 class _RegisterPageState extends State<RegisterPage> {
 
   String? email, password;
@@ -30,6 +30,9 @@ class _RegisterPageState extends State<RegisterPage> {
   GlobalKey<FormState> formKey = GlobalKey();
   @override
   Widget build(BuildContext context) {
+    return BlocConsumer<MainCubit, MainState>(
+  listener: (context, state) {},
+  builder: (context, state) {
     return ModalProgressHUD(
       inAsyncCall: isLoading,
       child:Scaffold(
@@ -78,7 +81,17 @@ class _RegisterPageState extends State<RegisterPage> {
                   height: 10,
                 ),
                 CustomFormTextField(
-                  obscureText: true,
+                  suffixIcon: IconButton(
+                    onPressed: () {
+                      MainCubit.get(context)
+                          .changePasswordVisibilityRegister();
+                    },
+                    icon: Icon(
+                      MainCubit.get(context).suffixRegister,
+                    ),
+                  ),
+                  obscureText:
+                  MainCubit.get(context).isPasswordShownRegister,
                   onChanged: (data) {
                     password = data;
                   },
@@ -143,6 +156,8 @@ class _RegisterPageState extends State<RegisterPage> {
         ),
       ),
     );
+  },
+);
   }
 
   Future<void> registerUser() async {

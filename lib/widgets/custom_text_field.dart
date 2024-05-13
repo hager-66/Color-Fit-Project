@@ -3,11 +3,14 @@ import 'package:flutter/material.dart';
 // ignore: must_be_immutable
 class CustomFormTextField extends StatelessWidget {
   CustomFormTextField(
-      {super.key, this.hintText, this.onChanged, this.obscureText = false});
+      {super.key, this.hintText, this.onChanged, this.obscureText = false,this.suffixIcon});
   Function(String)? onChanged;
   String? hintText;
 
   bool? obscureText;
+
+  Widget? suffixIcon;
+
   @override
   Widget build(BuildContext context) {
     return TextFormField(
@@ -20,6 +23,7 @@ class CustomFormTextField extends StatelessWidget {
       },
       onChanged: onChanged,
       decoration: InputDecoration(
+        suffixIcon: suffixIcon,
         hintText: hintText,
         hintStyle: const TextStyle(
           color: Colors.black,

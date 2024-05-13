@@ -1,0 +1,79 @@
+1-color:kaki
+  link:https://us.shein.com/Manfinity-Homme-Men-s-Loose-Fit-Corduroy-Jacket-With-Letter-Patchwork-Detail-And-Teddy-Lining-p-23082923.html?src_identifier=st%3D2%60sc%3Dmen%20jackets%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715450796211&mallCode=1&pageListType=4&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/27/e1/17036678037dd8a676c130303b8295cfccca77eb87.webp
+2-color:black
+  link :https://us.shein.com/Manfinity-Homme-Loose-Fit-Men-s-Corduroy-Jacket-With-Patch-Detailing-And-Fleece-Lining-p-27064843.html?src_identifier=st%3D2%60sc%3Dmen%20jackets%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715450796211&pageListType=4&imgRatio=3-4&main_attr=27_379&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/27/35/170366779306685abad7cda80952b9bbf098569a54.webp
+3-color:grey
+  link :https://us.shein.com/Manfinity-Homme-Loose-Fit-Men-s-Corduroy-Patchwork-Design-Fleece-Lined-Jacket-p-27064846.html?src_identifier=st%3D2%60sc%3Dmen%20jackets%60sr%3D0%60ps%3D1&src_module=search&src_tab_page_id=page_goods_detail1715450796211&pageListType=4&imgRatio=3-4&main_attr=27_112&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/27/63/17036677400a4873f324b34e3a75713c2cf62d4f09.webp
+4-color:black& beige
+  link :https://us.shein.com/Men-Zip-Up-Thermal-Lined-Bomber-Jacket-p-25524362.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/20/ff/170307475643aa2e2f4946ce7dcfe3f6fe5fd9f731.webp
+5-color:mint green
+  link:https://us.shein.com/Men-Letter-Patched-Zip-Up-Corduroy-Thermal-Coat-p-12012311.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2022/11/21/166899897418f04781135777e2ea4b1586fe785e1b.webp
+6-color:brown
+  link :https://us.shein.com/CLOUDSTYLE-Men-Zip-Up-Patent-Jacket-p-18125903.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/07/06/16886401244050adebd2e43a4cd2194719041daab9.webp
+7-color:red
+  link :https://us.shein.com/CLOUDSTYLE-Men-Zip-Up-PU-Leather-Jacket-p-18125982.html?&imgRatio=3-4&main_attr=27_140&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/07/06/168864012369751fd5989602b5694553184aa1a315.webp
+8-color:blue
+  link :https://us.shein.com/Men-s-Zipper-Front-Pu-Leather-Jacket-p-27721225.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/13/27/1702450549511f87d63947b20d6af9ebb7722f1055.webp
+9-color:blue
+  link :https://us.shein.com/Men-s-Outdoor-Casual-Lightweight-Cargo-Vest-p-29052071.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/01/05/aa/1704419074022c6592f73d4fbf277484e7b8f6815d.webp
+10-color:dark green
+  link :https://us.shein.com/Manfinity-LEGND-Loose-Fit-Men-s-Vest-Jacket-With-Letter-Patched-Detail-And-Flap-Pockets-p-12546549.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/01/31/b5/17066875292b9943d157895b1437c4f26f798922c2.webp
+11-color:mint green
+  link :https://us.shein.com/Men-s-Zipper-Front-Workwear-Vest-With-Pockets-p-30943643.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/03/01/a5/17092822140be982d8b8bbc171b657f83a3233c8ce.webp
+12-color:brown
+  link :https://us.shein.com/Men-s-Stand-Collar-Winter-Vest-p-23489591.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/01/17/fd/17054870830c428f19bee8a1c3bc3adc63240ad4de.webp
+13-color:blue
+  link :https://us.shein.com/Manfinity-Homme-Men-Letter-Patched-Detail-Zip-Up-Fleece-Jacket-Without-Tee-p-22526323.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/09/04/c9/1693793861fd070e61c3566809fbb6281c979ff68c.webp
+14-color:baby blue
+  link :https://us.shein.com/Men-Zip-Up-Hooded-Quilted-Coat-p-22446139.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/25/27/1703484188d43a33fb58ca22660a6d966a0ec45b2b.webp
+15-color:baby blue
+  link : https://us.shein.com/Manfinity-Homme-1pc-Men-s-Loose-Fit-Drawstring-Hooded-Zipper-Puffer-Coat-No-Sweater-Included-p-11623050.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2022/11/10/16680498036d8eaaf37f75f5c15db4062a42e7f3bf.webp
+16-color:baby blue
+  link : https://us.shein.com/Manfinity-Homme-1pc-Men-s-Loose-Fit-Drawstring-Hooded-Zipper-Puffer-Coat-No-Sweater-Included-p-11623050.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2022/11/10/16680498036d8eaaf37f75f5c15db4062a42e7f3bf.webp
+17-color: white
+  link : https://us.shein.com/Men-Letter-Patched-Slant-Pockets-Puffer-Coat-p-23592217.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/09/22/e3/16953790540547c9a63cb49abb58614d84a6fd8380.webp
+18-color: kakhi
+  link :https://us.shein.com/Men-Zip-Up-Puffer-Coat-p-23587261.html?&imgRatio=3-4&main_attr=27_739&mallCode=1 
+  url:https://img.ltwebstatic.com/images3_pi/2023/09/22/fd/16953793162712ddf4928a8e41ea5eb7f5205aac03.webp
+19-color: purple
+  link : https://us.shein.com/Manfinity-Oversized-Men-s-Letter-Embroidery-Zip-Up-Puffer-Coat-p-24629500.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/10/13/ff/16971819504616ba8df222491f3091a70434c3e037.webp
+20-color:white
+  link :https://us.shein.com/Manfinity-Homme-Men-s-Solid-Color-Oversized-Stand-Collar-Puffer-Coat-p-27831253.html?&imgRatio=3-4&main_attr=27_536&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/12/18/d5/1702863770a7401a6423f376aa4e22040d9497393a.webp
+21-color:brown
+  link :https://us.shein.com/Manfinity-Homme-Men-s-Zipper-Front-Long-Sleeve-Oversized-Winter-Coat-p-26903778.html?&imgRatio=3-4&main_attr=27_334&mallCode=1
+  url:https://img.ltwebstatic.com/images3_pi/2023/11/28/e8/170113693847e159da0b449c9e5f55decec2987d5c.webp
+22-color:black & white
+  link :https://us.shein.com/Men-Two-Tone-Zip-Up-PU-Leather-Jacket-p-22487045.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/09/01/0f/169354545773b3ce19d5f89433a6d0fc2e30fc3adb.webp
+23-color:black 
+  link :https://us.shein.com/Men-Contrast-Piping-PU-Leather-Jacket-p-20213723.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/07/24/16901854330b0579235d02107b3b5be29a09cce515.webp
+24-color:khaki
+  link :https://us.shein.com/Manfinity-EMRG-Men-s-Glossy-Stand-Collar-Zipper-Front-Jacket-p-29587196.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2024/01/25/99/1706162213c0fcd15d40daeb147b3bee4c8b0cba30.webp
+25-color: mint green
+  link :https://us.shein.com/Men-Zip-Up-Drawstring-Hooded-Jacket-p-21280648.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/08/10/1d/1691664465574e51c36980064bac0584c2c38acd1f.webp
+26-color:khaki
+  link :https://us.shein.com/Men-Striped-Trim-Zip-Up-Jacket-p-20864842.html?mallCode=1&imgRatio=3-4
+  url:https://img.ltwebstatic.com/images3_pi/2023/08/03/fd/16910549875efbf43435241acede6bbfc97239d1a6.webp
+ 

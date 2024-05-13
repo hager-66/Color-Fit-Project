@@ -1,6 +1,9 @@
 import 'package:color_fit1/constants.dart';
+import 'package:color_fit1/pages/result_page_outfits.dart';
 import 'package:color_fit1/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
+
+import '../main_cubit/main_cubit.dart';
 
 class match_outfitsmPage extends StatelessWidget {
   const match_outfitsmPage({super.key});
@@ -34,12 +37,102 @@ class match_outfitsmPage extends StatelessWidget {
             const SizedBox(
               height: 70,
             ),
-            CustomButon(
-              s,
-              text: 'Upload picture',
-              onTap: () {
-                //Navigator.pushNamed(context, ChoosePage.id);
-              },
+            Row(
+              children: [
+                Expanded(
+                  child: CustomButon(
+                    s,
+                    text: 'T-Shirts',
+                    onTap: () {
+                      MainCubit.get(context)
+                          .readJson(context: context,
+                          gender: 'men',
+                          type: 't-shirts')
+                          .then((value) {
+                        return Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) =>
+                                ResultPageOutfits(
+                                  outfits: 't-shirts',
+                                )));
+                      });
+                    },
+                  ),
+                ),
+                const Spacer(),
+                Expanded(
+                  child: CustomButon(
+                    s,
+                    text: 'Pants',
+                    onTap: () {
+                      MainCubit.get(context)
+                          .readJson(context: context,
+                          gender: 'men',
+                          type: 'pants')
+                          .then((value) {
+                        return Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) =>
+                                ResultPageOutfits(
+                                  outfits: 'pants',
+                                )));
+                      });
+                    },
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(
+              height: 70,
+            ),
+            Row(
+              children: [
+                Expanded(
+                  child: CustomButon(
+                    s,
+                    text: 'Sweatshirts',
+                    onTap: () {
+                      MainCubit.get(context)
+                          .readJson(context: context,
+                          gender: 'men',
+                          type: 'sweatshirts')
+                          .then((value) {
+                        return Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) =>
+                                ResultPageOutfits(
+                                  outfits: 'sweatshirts',
+                                )));
+                      });
+                    },
+                  ),
+                ),
+                const Spacer(),
+                Expanded(
+                  child: CustomButon(
+                    s,
+                    text: 'jackets',
+                    onTap: () {
+                      MainCubit.get(context)
+                          .readJson(context: context,
+                          gender: 'men',
+                          type: 'jackets')
+                          .then((value) {
+                        return Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) =>
+                                ResultPageOutfits(
+                                  outfits: 'jackets',
+                                )));
+                      });
+                    },
+                  ),
+                ),
+              ],
             ),
           ],
         ),
