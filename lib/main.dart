@@ -7,7 +7,6 @@ import 'package:color_fit1/pages/choose_page.dart';
 import 'package:color_fit1/pages/home_page.dart';
 import 'package:color_fit1/pages/login_page.dart';
 import 'package:color_fit1/pages/match_outfits_page.dart';
-import 'package:color_fit1/pages/result_photo_detect.dart';
 
 //import 'package:color_fit1/pages/t.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

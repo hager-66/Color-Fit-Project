@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
 import '../main_cubit/main_cubit.dart';
-import '../pages/result_photo_detect.dart';
 
 class SelectPhoto extends StatelessWidget {
   final String textLabel;

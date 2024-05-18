@@ -133,9 +133,6 @@ class _ResultPhotoDetectState extends State<ResultPhotoDetect> {
                           fontSize: 20,
                         ),
                       ),
-                      const SizedBox(
-                        width: 20,
-                      ),
                       IconButton(
                         onPressed: () {
                           _newVoiceText = widget.data['dominant_colors'][flutterColors.indexOf(color)].toString().split(' ')[0];
@@ -189,9 +186,6 @@ class _ResultPhotoDetectState extends State<ResultPhotoDetect> {
                           color: Colors.black, // Change text color based on background for better visibility
                           fontSize: 20,
                         ),
-                      ),
-                      const SizedBox(
-                        width: 20,
                       ),
                       IconButton(
                         onPressed: () {

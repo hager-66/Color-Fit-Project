@@ -9,7 +9,7 @@ class ResultPageOutfits extends StatelessWidget {
   ResultPageOutfits({super.key, required this.outfits});
 
   final String outfits;
-  Set<int> usedIndices = Set();
+  final Set<int> usedIndices = {};
 
   @override
   Widget build(BuildContext context) {

@@ -1,7 +1,6 @@
 import 'package:color_fit1/constants.dart';
 import 'package:color_fit1/pages/login_page.dart';
 import 'package:color_fit1/widgets/custom_button.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

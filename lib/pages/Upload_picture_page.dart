@@ -2,11 +2,9 @@ import 'package:color_fit1/pages/result_photo_detect.dart';
 import 'package:color_fit1/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:image_picker/image_picker.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import '../helper/selectPhoto.dart';
 import '../main_cubit/main_cubit.dart';
-import 'match_outfits_page.dart';
 
 class UploadpicturePage extends StatelessWidget {
   const UploadpicturePage({super.key});

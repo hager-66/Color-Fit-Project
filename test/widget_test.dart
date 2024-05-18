@@ -6,7 +6,7 @@ import 'package:color_fit1/main.dart';
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(ColorFitApp());
+    await tester.pumpWidget(const ColorFitApp());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
